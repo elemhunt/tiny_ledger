@@ -1,0 +1,6 @@
+api.exe
+api
+bin/api
+.DS_Store
+.env
+env.dev
