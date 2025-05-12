@@ -1,8 +1,8 @@
 run:
 	go run ./cmd/api
 
-build 
+build: 
 	go build -o bin/api ./cmd/api
 
-test
+test:
 	go test -v ./tests/...
